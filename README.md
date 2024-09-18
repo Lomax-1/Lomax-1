@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lomax-1
+- 👋 Hi, I’m Lomax!
 - 👀 I’m interested in video games and the like!
 - 🌱 I’m currently learning python, because somehow after five years of programming I never actually bothered to look into it too deeply! 
 - 📫 How to reach me: send me an email and I'll do my best to respond!
